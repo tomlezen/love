@@ -1,8 +1,9 @@
 {
     "love": {
-        "worlds": "这是我们相识的时光",
-        "blessing": "永远爱你",
-        "name": "小明"
+        "words": "亲爱的，这是我们相识的美好时光",
+        "blessing": "love forever",
+        "name": "无名氏",
+        "love_date": "2019.2.3"
     },
     "verse": {
         "name": "有一个字经常被人亵渎",
